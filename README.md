@@ -24,8 +24,8 @@ This is a frontend component build with basic knowledge of HTML and CSS
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/jcifu/product-preview-card-component](https://github.com/jcifu/product-preview-card-component)
+- Live Site URL: [https://fend-product-preview-card-component.netlify.app](https://fend-product-preview-card-component.netlify.app)
 
 ### Built with
 
