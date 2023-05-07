@@ -24,7 +24,7 @@ This is a frontend component build with basic knowledge of HTML and CSS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://https://github.com/product-preview-card-component)
+- Solution URL: [Add solution URL here]()
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
