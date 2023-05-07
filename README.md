@@ -45,4 +45,4 @@ If you notice some odds (especially that aspects that i didn't) please let me kn
 ## Author
 
 - Website - [jcifu](https://github.com/jcifu/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jcifu)
+- Frontend Mentor - [@jcifu](https://www.frontendmentor.io/profile/jcifu)
